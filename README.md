@@ -1,8 +1,7 @@
 # Summary
-One of my first project was implementing FOG Project, which is "A free open-source network computer cloning and management solution" It's a really neat project that let's you customize a Operating System of any kind and deploy exact clones of it to as many machines needed, the only thing needed for deployment is the FOG dashboard and the computers set to "Network Booting". This project was done about two years ago, not all the steps have screenshots, for detailed instructions on how to deploy visit:
+One of my first project was implementing FOG Project, which is "A free open-source network computer cloning and management solution" It's a really neat project that let's you customize a Operating System of any kind and deploy exact clones of it to as many machines needed, the only thing needed for deployment is the FOG dashboard and the computers set to "Network Booting". This project was done about two years ago, not all the steps have screenshots, for detailed instructions on how to deploy and to Learn more about The FOG Project visit:
 
-**This Website:** 
-
+**This Website:** https://fogproject.org/ 
 # Setup
 
 **Needed Equipment & Tools*
