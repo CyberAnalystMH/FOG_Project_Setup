@@ -18,7 +18,7 @@ One of my first project was implementing FOG Project, which is "A free open-sour
 **Note:** I don't have access to more then one physical laptop/PC, in this case we're going to virtulize it.
 # Scenario  
 
-Your an IT employee at a newly built College and your boss asks you to install and deploy 100 Hannah Montana Linux on the school's computer stations. You're given the equipment, a router and a large switch with many Ethernet cables. 
+You're an IT employee at a newly built College and your boss asks you to install and deploy 100 Hannah Montana Linux on the school's computer stations. You're given the equipment, a router and a large switch with many Ethernet cables. 
 
 **Note:** We're going to be deploying a single clone but the concept is the same if we were to actually deploy 100 clones of the same system. 
 
