@@ -1,3 +1,5 @@
+WORK IN PROGRESS
+
 # Summary
 One of my first project was implementing FOG Project, which is "A free open-source network computer cloning and management solution" It's a really neat project that let's you customize a Operating System of any kind and deploy exact clones of it to as many machines needed, the only thing needed for deployment is the FOG dashboard and the computers set to "Network Booting". This project was done about two years ago, not all the steps have screenshots, for detailed instructions on how to deploy and to Learn more about The FOG Project visit:
 
@@ -18,7 +20,7 @@ One of my first project was implementing FOG Project, which is "A free open-sour
 **Note:** I don't have access to more then one physical laptop/PC, in this case we're going to virtulize it.
 # Scenario  
 
-You're an IT employee at a newly built College and your boss asks you to install and deploy 100 Hannah Montana Linux on the school's computer stations. You're given the equipment, a router and a large switch with many Ethernet cables. 
+You're an IT employee at a newly built College and your boss asks you to install and deploy 100 Hannah Montana Linux on the school's computer stations. You're given the equipment, a router and a large switch with many Ethernet cables and of course the 100 computers. 
 
 **Note:** We're going to be deploying a single clone but the concept is the same if we were to actually deploy 100 clones of the same system. 
 
